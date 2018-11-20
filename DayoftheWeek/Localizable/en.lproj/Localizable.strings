@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  DayoftheWeek
+
+  Created by Adeel Qayum on 10/2/18.
+  Copyright © 2018 Adeel Qayum. All rights reserved.
+*/
+
+"str_monthlabel" = "Month (MM)";
+"str_daylabel" = "Day (DD)";
+"str_yearlabel" = "Year (YYYY)";
+"str_displaylabel" = "Result";
+
+"str_formulaused" = "Formula Used:";
+"str_zellersrule" = "Zeller's Rule";
+"str_wiki" = "Wikipedia: Zeller's Congruence";
+
